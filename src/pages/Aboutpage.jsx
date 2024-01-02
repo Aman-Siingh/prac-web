@@ -1,18 +1,13 @@
-const AboutPage = () => {
-    return (  
+import React from 'react'
 
-        <div>
+const Aboutpage = () => {
+  return (
+    <div className="bg-yellow-500">
             <h1>
                 Singh 
             </h1>
         </div>
-    );
+  )
 }
 
-<div>
-    <h1>
-        Singh 
-    </h1>
-</div>
- 
-export default AboutPage;
+export default Aboutpage;

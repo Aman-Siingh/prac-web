@@ -1,7 +1,7 @@
 const Gallery = () => {
     return (    
 
-        <div>
+        <div className="bg-green-500">
             <h1>Gallery 
                 
             </h1>
